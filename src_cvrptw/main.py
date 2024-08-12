@@ -92,7 +92,7 @@ def read_travel_matrix(file_path):
             travel.append(dist)
     return travel
 
-travel_matrix = read_travel_matrix("../inputs/travel_matrix.csv")     # List of travel_matrix objects
+travel_matrix = read_travel_matrix("../MT-CVRPTW_inputs/travel_matrix.csv")     # List of travel_matrix objects
 
 
 def return_dist_time(source_code,dest_code):  # returns (dist,time)
