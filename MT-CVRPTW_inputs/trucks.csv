@@ -1,0 +1,20 @@
+﻿truck_type,truck_max_weight,truck_weight_unit,truck_id
+3 tonner Box,2800,KG,T3_1
+3 tonner Box,2800,KG,T3_2
+3 tonner Box,2800,KG,T3_3
+3 tonner Box,2800,KG,T3_4
+3 tonner Box,2800,KG,T3_5
+5 tonner Box,4700,KG,T3_6
+7.5 tonner Tail-lift,7000,KG,T7_1
+7.5 tonner Tail-lift,7000,KG,T7_2
+10 tonner Box,9200,KG,T10_1
+10 tonner Box,9200,KG,T10_2
+10 tonner Box,9200,KG,T10_3
+10 tonner Box,9200,KG,T10_4
+10 tonner Box,9200,KG,T10_5
+10 tonner Box,9200,KG,T10_6
+10 tonner Box,9200,KG,T10_7
+40ft Trailer,17000,KG,T40_1
+40ft Trailer,17000,KG,T40_2
+40ft Trailer,17000,KG,T40_3
+40ft Trailer,17000,KG,T40_4
